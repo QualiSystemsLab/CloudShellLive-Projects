@@ -1,1 +1,1 @@
-ls -ll | grep $MY_FOLDER_NAME
+find -name $MY_FOLDER_NAME
